@@ -17,6 +17,7 @@
 
 ## AI
 
+- [agent-team](https://github.com/ibrohhm/agent-team) — Multi-agent team collaboration
 - [jira-implementer](https://github.com/ibrohhm/jira-implementer) — AI agent that implements Jira tickets
 - [telegram-claude-bot](https://github.com/ibrohhm/telegram-claude-bot) — Telegram bot powered by Claude AI
 
